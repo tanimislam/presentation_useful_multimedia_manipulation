@@ -13,17 +13,17 @@ One of Python's many killer features is that a programmer can organically create
 
 If there's time or interest, I can even describe and demonstrate how to retrieve and label music you might find, all within Python.
 
-Demonstrations live in the `demonstrations` subdirectory, and each demonstration is its own directory within `demonstrations`, and each demonstration has its own `INSTRUCTIONS.rst`. Here are the five demonstration directories with description.
+Demonstrations live in the ``demonstrations`` subdirectory, and each demonstration is its own directory within ``demonstrations``, and each demonstration has its own ``INSTRUCTIONS.rst``. Here are the five demonstration directories with description.
 
-1. `autocropping_images`: autocropping a PNG image and a PDF image.
+1. ``autocropping_images``: autocropping a PNG image and a PDF image.
 
-2. `converting_images`: using the CloudConvert_ RESTful service to convert a PDF and an SVG into a PNG file.
+2. ``converting_images``: using the CloudConvert_ RESTful service to convert a PDF and an SVG into a PNG file.
 
-3. `movie_image_demos`: converting a sequence of images into an MP4 file.
+3. ``movie_image_demos``: converting a sequence of images into an MP4 file.
 
-4. `movie_gif_demos`: converting an MP4 file and a YouTube clip into animated GIFs.
+4. ``movie_gif_demos``: converting an MP4 file and a YouTube clip into animated GIFs.
 
-5. `making_music_youtube`: using a tool, `plex_music_songs`_, that takes metadata from MusicBrainz_ and the YouTube clip using `youtube-dl`_, into an M4A file.
+5. ``making_music_youtube``: using a tool, `plex_music_songs`_, that takes metadata from MusicBrainz_ and the YouTube clip using `youtube-dl`_, into an M4A file.
 
 .. _GitHub: https://github.com
 .. _`Read the Docs`: https://www.readthedocs.io

@@ -5,8 +5,6 @@ One of Python's many killer features is that a programmer can organically create
 
 * automatically cropping out whitespace in images (surprisingly easy to do).
 
-* native and service-based conversion of PDF to PNG and JPEG images.
-
 * creating movies from a sequence of generated images.
 
 * conversion of movie clips, either files or YouTube clips, into animated GIFs (useful where the online service does not allow for video animations from movie files, such as GitHub_ or `Read the Docs`_).

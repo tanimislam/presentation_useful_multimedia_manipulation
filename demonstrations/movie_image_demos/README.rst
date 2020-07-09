@@ -17,7 +17,7 @@ INSTRUCTIONS
 
    .. code-block:: console
 
-      python3.7 demo_create_movie_sequence.py --prefix="covid19_conus_cases_04072020." --output="covid19_conus_cases_04072020.mp4" --dirname=--dirname="covid19_conus_cases_04072020_imagefiles" --fps=5
+      python3.7 demo_create_movie_sequence.py --prefix="covid19_conus_cases_04072020." --output="covid19_conus_cases_04072020.mp4" --dirname="covid19_conus_cases_04072020_imagefiles" --fps=5
 
    Open ``covid19_conus_cases_04072020.mp4`` with a video viewer. This is 5 frames per second.
       

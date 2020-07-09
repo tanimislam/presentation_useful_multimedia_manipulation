@@ -3,7 +3,7 @@ INSTRUCTIONS
 
 1. Go to these locations:
 
-   a. showing Musicbrainz_ getting metadata (given an artist, all the albums + all songs of artist): `plexstuff.plexmusic.plexmsuic.get_music_metadata <get_music_metadata_>`_
+   a. showing Musicbrainz_ getting metadata (given an artist, all the albums + all songs of artist): `plexstuff.plexmusic.plexmusic.get_music_metadata <get_music_metadata_>`_
 
    b. showing choose the correct YouTube clip: `plexstuff.plexmusic.plexmusic.youtube_search <youtube_search_>`_
       
@@ -23,9 +23,9 @@ INSTRUCTIONS
    
 .. _MusicBrainz: https://musicbrainz.org
 		   
-.. _`get_music_metadata`: https://github.com/tanimislam/plexstuff/blob/37cfb9f9e52864d8bdd6a2e154dc93b48ff2c908/plexstuff/plexmusic/plexmusic.py#L776
+.. _`get_music_metadata`: https://github.com/tanimislam/plexstuff/blob/37cfb9f9e52864d8bdd6a2e154dc93b48ff2c908/plexstuff/plexmusic/plexmusic.py#L411
 
-.. _`youtube_search`: https://github.com/tanimislam/plexstuff/blob/37cfb9f9e52864d8bdd6a2e154dc93b48ff2c908/plexstuff/plexmusic/plexmusic.py#L775
+.. _`youtube_search`: https://github.com/tanimislam/plexstuff/blob/37cfb9f9e52864d8bdd6a2e154dc93b48ff2c908/plexstuff/plexmusic/plexmusic.py#L888
 
 .. _`youtube-dl`: https://rg3.github.io/youtube-dl
 

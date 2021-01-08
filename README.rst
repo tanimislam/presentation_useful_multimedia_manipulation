@@ -19,11 +19,11 @@ Demonstrations live in the ``demonstrations`` subdirectory, each demonstration i
 
 3. ``movie_gif_demos``: converting an MP4 file and a YouTube clip into animated GIFs.
 
-4. ``making_music_youtube``: using a tool, `plex_music_songs`_, that takes metadata from MusicBrainz_ and the YouTube clip using `youtube-dl`_, into an M4A file.
+4. ``making_music_youtube``: using a tool, `howdy_music_songs`_, that takes metadata from MusicBrainz_ and the YouTube clip using `youtube-dl`_, into an M4A file.
 
 .. _GitHub: https://github.com
 .. _`Read the Docs`: https://www.readthedocs.io
 .. _CloudConvert: https://cloudconvert.com
-.. _`plex_music_songs`: https://plexstuff.readthedocs.io/plex-music/cli_tools/plex_music_cli.html?highlight=plex_music_songs#plex-music-songs
+.. _`howdy_music_songs`: https://howdy.readthedocs.io/en/latest/howdy-music/cli_tools/howdy_music_cli.html?highlight=howdy_music_songs#howdy-music-songs
 .. _MusicBrainz: https://musicbrainz.org
 .. _`youtube-dl`: https://rg3.github.io/youtube-dl

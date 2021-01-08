@@ -11,7 +11,7 @@ One of Python's many killer features is that a programmer can organically create
 
 If there's time or interest, I can even describe and demonstrate how to retrieve and label music you might find, all within Python.
 
-Demonstrations live in the ``demonstrations`` subdirectory, and each demonstration is its own directory within ``demonstrations``, and each demonstration has its own ``README.rst``. Here are the four demonstration directories with description.
+Demonstrations live in the ``demonstrations`` subdirectory, each demonstration is its own directory within ``demonstrations``, and each demonstration has its own ``README.rst``. Here are the four directories with description.
 
 1. ``autocropping_images``: autocropping a PNG image and a PDF image.
 

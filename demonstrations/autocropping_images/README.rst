@@ -24,6 +24,6 @@ INSTRUCTIONS
    Compare ``cumulative_plot_emission_uncropped.pdf`` and ``cumulative_plot_emission_cropped.pdf`` in a PDF viewer.
       
 
-.. _`autocrop_image`: https://github.com/tanimislam/nprstuff/blob/f67e719ba4f2ca7120774937d27cb1adbb51c933/nprstuff/core/autocrop_image.py#L25
+.. _`autocrop_image`: https://github.com/tanimislam/nprstuff/blob/fd23d5057d91be019a517534816788a253c71b3a/nprstuff/core/autocrop_image.py#L30
 
-.. _`autocrop_image_pdf`: https://github.com/tanimislam/nprstuff/blob/f67e719ba4f2ca7120774937d27cb1adbb51c933/nprstuff/core/autocrop_image.py#L193
+.. _`autocrop_image_pdf`: https://github.com/tanimislam/nprstuff/blob/fd23d5057d91be019a517534816788a253c71b3a/nprstuff/core/autocrop_image.py#L219

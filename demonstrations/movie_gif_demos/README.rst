@@ -28,9 +28,9 @@ INSTRUCTIONS
 
 .. _`convert_image`: https://github.com/tanimislam/nprstuff/blob/master/nprstuff/core/convert_image.py
 
-.. _mp4togif: https://github.com/tanimislam/nprstuff/blob/807a3cba7e8bfd6ded70cdea3083cd9c9494e438/nprstuff/core/convert_image.py#L150
+.. _mp4togif: https://github.com/tanimislam/nprstuff/blob/b1a27810eeedb1e742895127f57287e838ac576e/nprstuff/core/convert_image.py#L154
 
-.. _youtube2gif: https://github.com/tanimislam/nprstuff/blob/807a3cba7e8bfd6ded70cdea3083cd9c9494e438/nprstuff/core/convert_image.py#L135
+.. _youtube2gif: https://github.com/tanimislam/nprstuff/blob/b1a27810eeedb1e742895127f57287e838ac576e/nprstuff/core/convert_image.py#L129
 
 .. _`this website`: http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html
 
